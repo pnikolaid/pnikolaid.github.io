@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: # "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,4 +17,4 @@ I'm a fifth year PhD candidate at the Deparment of Electrical and Computer Engin
 I'm broadly interested in communication networks. Currently, my research focus is on network slicing. My goal is to develop a framework that provides QoS guarantees to multiple network slices at the same while efficiently adapting the network resources to traffic. In my research, I like to mix theory with practice whenever possible. 
 
 
-# New: From February 1st to May 31st, I'll be visiting Prof. James Gross' group at the Royal Institute of Technology (KTH) in Sweden.
+From February 1st to May 31st, I'll be visiting Prof. James Gross' group at the Royal Institute of Technology (KTH) in Sweden.
