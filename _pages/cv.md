@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
- ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo-img.png)
+ ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
 * PhD in Electrical and Computer Engineering, University of Maryland (ongoing)
 * Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki (2019)
 
