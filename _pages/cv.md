@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+![alt text](auth-logo-img.pmg "Logo Title Text 1")
 * PhD in Electrical and Computer Engineering, University of Maryland (ongoing)
 * Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki (2019)
 
