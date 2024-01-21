@@ -21,7 +21,7 @@ Professional Experience
   *  Standards Group at AT&T Labs, Redmond, Washington 
 
 * Research Intern (June 2020 - August 2020)
-  * ENSA Lab, Nokia Bell Labs,Murray Hill, New Jersey
+  * ENSA Lab, Nokia Bell Labs, Murray Hill, New Jersey
 
 * Undergraduate Intern (November 2017 - January 2018)
   * CERTH, Information Technologies Institute, Thessaloniki, Greece
