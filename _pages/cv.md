@@ -17,9 +17,8 @@ Education
 
   
 Professional Experience
- ![alt text](/images/att.jpg) ![alt text](/images/nokia-logo.jpg) ![alt text](/images/certh-logo-en-positive.png)
-
 ======
+ ![alt text](/images/att.jpg) ![alt text](/images/nokia-logo.jpg) ![alt text](/images/certh-logo-en-positive.jpg)
 * Research Intern (June 2022 - August 2022)
   *  Standards Group at AT&T Labs, Redmond, Washington 
 
