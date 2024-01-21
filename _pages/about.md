@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year PhD candidate at the deparment of Electrical and Computer Engineering at the University of Maryland. I'm also a member of the Institute for Systems Research. I'm fortunate to be advised by Prof. John Baras. Before joining the PhD program in 2019, I received my diploma in Electrical and Computer Engineering at the Aristotle Univerisity of Thessaloniki in Greece.
+I'm a 5th-year PhD candidate at the Deparment of Electrical and Computer Engineering at the University of Maryland. I'm also a member of the Institute for Systems Research. I'm fortunate to be advised by Prof. John Baras. Before joining the PhD program, I received my diploma in Electrical and Computer Engineering at the Aristotle Univerisity of Thessaloniki in Greece.
 
 # Research Interests
 
-I'm broadly interested in communication networks. Currently, my research focus is on network slicing. My goal is to develop a framework that provides QoS guarantees to multiple network slices concurrently while adapting their network resources to traffic for increased efficiency. In my research, I often use various tools from Dynamic Programming, Learning Theory, and Estimation Theory. In general, I like to mix theory with practice whenever possible by proposing clear solution approaches and then implementing them on simulators or testbeds for evaluation. 
+I'm broadly interested in communication networks. Currently, my research focus is on network slicing. My goal is to develop a framework that provides QoS guarantees to multiple network slices concurrently while adapting their resources to traffic for increased efficiency. 
+
+In my research, I often use various tools from Control Theory, Queueing Theory, Learning Theory and Estimation Theory. In general, I like to mix theory with practice whenever possible by proposing clear solution approaches and then implementing them on network simulators or testbeds for evaluation. 
 
 
 _From February to May, I'll be visiting Prof. James Gross' group at the KTH Royal Institute of Technology in Sweden._
