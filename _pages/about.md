@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year PhD candidate at the [Deparment of Electrical and Computer Engineering](https://ece.umd.edu/) at the [University of Maryland](https://umd.edu/). I'm also a member of the [Institute for Systems Research](https://isr.umd.edu/). I'm fortunate to be advised by [Prof. John Baras](https://ece.umd.edu/clark/faculty/357/John-S-Baras). Before joining the PhD program, I received my diploma in [Electrical and Computer Engineering  at the Aristotle Univerisity of Thessaloniki]((https://www.auth.gr/en/school/ee-en/)) in Greece.
+I'm a 5th-year PhD candidate at the [Deparment of Electrical and Computer Engineering](https://ece.umd.edu/) at the [University of Maryland](https://umd.edu/). I'm also a member of the [Institute for Systems Research](https://isr.umd.edu/). I'm fortunate to be advised by Prof. [John Baras](https://ece.umd.edu/clark/faculty/357/John-S-Baras). Before joining the PhD program, I received my diploma in Electrical and Computer Engineering  at the Aristotle Univerisity of Thessaloniki in Greece.
 
 # Research Interests
 
