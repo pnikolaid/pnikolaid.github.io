@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Electrical and Computer Engineering, University of Maryland (ongoing) ![alt text](/images/umd-logo.png)  
-
-* Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki (2019) ![alt text](/images/auth-logo-img.png)
-
+ ![alt text](/images/umd-logo.png)   ![alt text](/images/auth-logo-img.png)
+* PhD in Electrical and Computer Engineering, University of Maryland (ongoing)
+* Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki (2019)
 
   
 Professional Experience
@@ -27,34 +26,3 @@ Professional Experience
 
 * Undergraduate Intern (November 2017 - January 2018)
   * CERTH, Information Technologies Institute, Thessaloniki, Greece
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
