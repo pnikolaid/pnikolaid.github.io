@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Short Bio
 
 I'm a fifth year PhD candidate at the deparment of Electrical and Computer Engineering at the University of Maryland. I'm also a member of the Institute for Systems Research. I'm fortunate to be advised by Prof. John Baras. Before joining the PhD program in 2019, I received my diploma in Electrical and Computer Engineering at the Aristotle Univerisity of Thessaloniki in Greece.
 
