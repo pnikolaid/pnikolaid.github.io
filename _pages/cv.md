@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
-* PhD Candidate in Electrical and Computer Engineering, University of Maryland [August 2019-now]
-* Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki [July 2019]
+* [August 2019-now] PhD Candidate in Electrical and Computer Engineering, University of Maryland 
+* [July 2019] Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki 
 <br/>
 <br/>
   
