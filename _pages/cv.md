@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Education
 ======
  ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
