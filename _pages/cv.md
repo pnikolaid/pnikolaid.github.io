@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Education
 ======
  ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
 * PhD Candidate in Electrical and Computer Engineering, University of Maryland (2019-now)
