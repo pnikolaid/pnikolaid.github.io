@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+<img align="left" width="200" src=/images/umd-logo.png />
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
 * PhD Candidate in Electrical and Computer Engineering <br/>
   University of Maryland
