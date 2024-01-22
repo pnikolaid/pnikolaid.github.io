@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 August 2019-now <br/>
-<img align="left" width="100" src=/images/umd-logo.png />
+<img align="right" width="100" src=/images/umd-logo.png />
 PhD Candidate  <br/>
 Advisor: John Baras <br/>
 Department of Electrical and Computer Engineering <br/>
