@@ -12,7 +12,9 @@ I'm a 5th year PhD candidate in the [Deparment of Electrical and Computer Engine
 
 # Research Interests
 
-I'm broadly interested in communication networks. Currently, my research focus is on network slicing. My goal is to develop a framework that efficiently provides peformance guarantees to multiple network slices via dynamic resource adaptation. My research draws from Controls, Queueing Theory, Learning Theory and Estimation Theory. In general, I like to mix theory with practice by formulating problems of practical interest and implementing their solutions on simulators or testbeds. 
+I'm broadly interested in communication networks. Currently, my research focus is on network slicing. My goal is to develop a framework that efficiently provides peformance guarantees to multiple network slices via dynamic resource adaptation. 
+
+My research draws from Controls, Queueing Theory, Learning Theory and Estimation Theory. In general, I like to mix theory with practice by formulating problems of practical interest and implementing their solutions on simulators or testbeds. 
 
 **New**: From February to May 2024, I'll be a visiting researcher at the [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden. I'll be hosted by Prof. [James Gross](https://www.jamesgross.org/).
 
