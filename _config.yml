@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Panagiotis Nikolaidis"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Panagiotis Nikolaidis"
 description              : &description "personal description"
