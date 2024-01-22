@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+<br/>
+<br/>
 
 Education
 ======
@@ -17,8 +19,6 @@ Education
 <br/>
 <br/>
 <br/>
-
-
 Professional Experience
 ======
  ![alt text](/images/at&t.png) ![alt text](/images/nokia-logo.jpg)
