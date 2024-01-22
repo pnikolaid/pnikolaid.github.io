@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 August 2019-now <br/>
-<img align="right" width="100" src=/images/umd-logo.png />
+<img align="right" width="150" src=/images/umd-logo.png />
 PhD Candidate  <br/>
 Advisor: John Baras <br/>
 Department of Electrical and Computer Engineering <br/>
 University of Maryland <br/>
 
-![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
+![alt text](/images/auth-logo.png)
 
 * Diploma in Electrical and Computer Engineering
   Aristostle University of Thessaloniki
