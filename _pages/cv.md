@@ -18,7 +18,7 @@ Education
 * Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki (2019)
 <br/>
 <br/>
-<br/>
+  
 Professional Experience
 ======
  ![alt text](/images/at&t.png) ![alt text](/images/nokia-logo.jpg)
