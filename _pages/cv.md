@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-August 2019-now
+August 2019-now <br/>
 <img align="left" width="100" src=/images/umd-logo.png />
 PhD Candidate  <br/>
 Advisor: John Baras <br/>
