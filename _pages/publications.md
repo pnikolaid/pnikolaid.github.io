@@ -11,6 +11,6 @@ You can find my full publication list on <u><a href="{{author.googlescholar}}">m
 
 <!-- {% include base_path %} -->
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
