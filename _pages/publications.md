@@ -9,7 +9,7 @@ author_profile: true
 You can find my full publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<!{% include base_path %}>
+<!-- {% include base_path %} -->
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
