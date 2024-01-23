@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can find my full publication list on my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="{{author.googlescholar}}"> Google Scholar</a> profile.
-Here I briefly describe my last two papers. <br/>
+In what follows, I briefly describe my last two papers on network slicing. <br/>
 
 In network slicing, the customer and the network operator sign an agreement. This agreement specifies the QoS delivered to the network slice of the customer, and the price that the customer needs to pay in exchange.
 
