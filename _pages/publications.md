@@ -10,7 +10,7 @@ Here I briefly describe my last two papers. <br/>
 
 In network slicing, the customer and the network operator sign a service level agreement that specifies the expected QoS delivered to the network slice and the price that the customer needs to pay in exchange.
 
-For this reason, we argue that sharing resources between network slices solely based on utility maximization schemes is not enough. 
+For this reason, we argue that sharing resources between network slices solely based on utility maximization schemes is not enough. Indeed, splitting the resources based on a proportionally fair or max-min fair criterion means little to the customer. The customer only wishes to receive the QoS that they are paying for.
 
 Instead, the operators need to first monitor the resources that each network slice needs over time. Then, they can provision resources and charge each customer accordingly.
 <img src="/images/system.svg" alt="Proposed Architecture">
