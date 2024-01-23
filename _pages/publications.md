@@ -5,5 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my full publication list on my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="{{author.googlescholar}}"> Google Scholar</a> profile. 
-Here I briefly describe my last two papers. </br>
+You can find my full publication list on my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="{{author.googlescholar}}"> Google Scholar</a> profile. </br>
+Here I briefly describe my last two papers. 
