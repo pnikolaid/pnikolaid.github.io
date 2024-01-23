@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my full publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can find my full publication list on my <u><a href="{{author.googlescholar}}"> Google Scholar profile</a>.</u>
