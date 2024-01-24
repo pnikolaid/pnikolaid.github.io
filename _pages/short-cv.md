@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <p align="center">
-## Short CV
+# Short CV
 </p>
 
 Education
