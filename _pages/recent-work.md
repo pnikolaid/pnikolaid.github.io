@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Recent Work"
+permalink: /recent_work/
+author_profile: true
+---
+
 In network slicing, the customer and the network operator sign a service level agreement. This agreement specifies the QoS delivered to the network slice of the customer and the price that the customer needs to pay in exchange.
 
 Notice that splitting the resources fairly between the slices means little to the customers if their share is not enough to deliver the promised QoS. Hence resource sharing schemes based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
