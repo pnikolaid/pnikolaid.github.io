@@ -24,8 +24,9 @@ Diploma in Electrical and Computer Engineering, Aristostle University of Thessal
 
 Experience
 ======
- ![alt text](/images/at&t.png) ![alt text](/images/nokia-logo.jpg)
- 
+<p align="center">
+  <img src="/images/at&t.png" />   <img src="/images/nokia-logo.jpg" />
+</p>
 <ins>June 2022 - August 2022</ins> <br/>
 Research Intern, Standards Group at AT&T, Redmond, WA
 
