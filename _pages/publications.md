@@ -12,5 +12,5 @@ In network slicing, the customer and the network operator sign a service level a
 
 In this paradigm, splitting resources based on a fairness criterion means little to the customers if the promised QoS is violated. Hence resource splitting mechanisms based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
 
-For example, the operator may monitor the resources that each slice needs a long period of time. Based on these data, the operator may provision the sum of the largest amount of resources that each slice requested. Although this is simple to do, it is quite wasteful. Since the traffic of different slices varies over time, so does their resource demand. So it is beneficial to consider statistic multiplexing to reduce the required provisioned resources.
+The operator needs to monitor the resources that each slice needs a long period of time. Based on these data, the operator may provision the sum of the largest amount of resources that each slice requested. Although this is simple to do, it is quite wasteful. Since the traffic of different slices varies over time, so does their resource demand. So it is beneficial to consider statistic multiplexing to reduce the required provisioned resources.
 <img src="/images/system.svg" alt="Proposed Architecture">
