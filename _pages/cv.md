@@ -19,7 +19,7 @@ Education
   July 2019
 <br/>
 
-Professional Experience
+Experience
 ======
  ![alt text](/images/at&t.png) ![alt text](/images/nokia-logo.jpg)
 * Research Intern, Standards Group at AT&T, Redmond, WA <br/>
