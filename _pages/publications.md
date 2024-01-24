@@ -14,5 +14,5 @@ Notice that splitting the resources fairly between the slices means little to th
 
 To estimate the required provisioned resources, the operator may monitor the resources that each slice needs over a long period of time, and then provision for each slice the largest amount of resources it requested.
 
-Although this is simple to do, it is quite wasteful. Since the traffic of a slices varies over time, so does its resource demand. So it is beneficial to consider statistic multiplexing to reduce the required provisioned resources. For this reason, we propose the following architecture:
+However, the traffic of a slice varies over time and so does its resource demand. Hence it is beneficial to dynamically adapt the resources to reduce the required provisioned resources. For this reason, we propose the following architecture: <br/>
 <img src="/images/system.svg" alt="Proposed Architecture">
