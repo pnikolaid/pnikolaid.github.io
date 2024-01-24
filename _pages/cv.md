@@ -29,4 +29,4 @@ Honors and Awards
 Received partial funding support for a research visit at KTH, Stockholm, Sweden
 
 * Dean's Fellowship, Univeristy of Maryland, 2019 </br>
-Received a four-year financial support package as a newly admitted Ph.D. student
+Received a four-year financial support package as a newly admitted PhD student
