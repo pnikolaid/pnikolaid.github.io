@@ -20,7 +20,7 @@ Education
 Professional Experience
 ======
  ![alt text](/images/at&t.png) ![alt text](/images/nokia-logo.jpg)
-* Research Intern, Standards Group at AT&T, Redmond, WA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [June 2022 - August 2022]
+* Research Intern, Standards Group at AT&T, Redmond, WA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [June 2022 - August 2022]
 * Research Intern, ENSA Lab at Nokia Bell Labs, Murray Hill, NJ                           [June 2020 - August 2020]
 <br/>
 <br/>
