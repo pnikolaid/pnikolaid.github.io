@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
-
+<div>
 <img align="left" src="/images/umd-logo.png">
 <ins>August 2019 - now </ins> <br/>
 PhD Candidate in Electrical and Computer Engineering, University of Maryland <br/>
-
+</div>
 
 <img align="left" src="/images/auth-logo.png">
 <ins>July 2019</ins><br/>
