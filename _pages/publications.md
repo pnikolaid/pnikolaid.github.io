@@ -20,8 +20,8 @@ This is simple to do but wasteful since the traffic of a slice varies over time.
 
 <img src="/images/system.svg" alt="Proposed Architecture">
 
-<ins> Bandwidth Demand Estimator</ins>: monitors online the traffic state of the network slice (number of users, number of queued bits, channel conditions, etc.) and outputs the number of resources needed to deliver the desired QoS.
+<ins> Bandwidth Demand Estimator</ins>: monitors online the current traffic of the network slice and outputs the amount of resources needed to deliver the desired QoS.
 
-<ins> Network Slice Multiplexer</ins>: decides online which bandwidth demands to accept if the provisioned resources are not enough to accept all of them.
+<ins> Network Slice Multiplexer</ins>: decides online which demands to accept if the provisioned resources are not enough for all of them.
 
 The previous architecture needs to be deployed at various nodes that compose the network slice. At a base station of a cellular network, the bandwidth demand corresponds to the physical resource blocks needed by the MAC scheduler of the network slice to meet the desired QoS. At a switch, the demand may correspond to the weights used by the PGPS algorithm running at its output ports.
