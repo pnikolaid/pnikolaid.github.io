@@ -36,7 +36,7 @@ Research Intern, ENSA Lab at Nokia Bell Labs, Murray Hill, NJ <br/>
 Honors & Awards
 ======
 
-</ins>December 2023</ins> <br/>
+<ins>December 2023</ins> <br/>
 International Graduate Research Fellowship, Univeristy of Maryland <br/>
 
 <ins>August 2019</ins> <br/>
