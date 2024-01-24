@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
+<!---
 <p align="center">
   <img src="/images/umd-logo.png" />   <img src="/images/auth-logo.png" />
 </p>
+-->
 <ins>August 2019 - now </ins> <br/>
 PhD Candidate in Electrical and Computer Engineering, University of Maryland 
 
