@@ -27,8 +27,8 @@ Professional Experience
 
 Honors and Awards
 ======
-* International Graduate Research Fellowship, Univeristy of Maryland, 2023 </br>
+* International Graduate Research Fellowship, Univeristy of Maryland, 2023 <br/>
 Received partial funding support for a research visit at KTH, Stockholm, Sweden
 
-* Dean's Fellowship, Univeristy of Maryland, 2019 </br>
+* Dean's Fellowship, Univeristy of Maryland, 2019 <br/>
 Received a four-year financial support package as a newly admitted PhD student
