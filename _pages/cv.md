@@ -30,7 +30,7 @@ Professional Experience
 Honors and Awards
 ======
 * International Graduate Research Fellowship, Univeristy of Maryland <br/>
-  Partial funding support for a research visit at KTH, Stockholm, Sweden <br/>
+  Financial support package for a research visit at KTH, Sweden <br/>
   December 2023 
 
 * Dean's Fellowship, Univeristy of Maryland <br/>
