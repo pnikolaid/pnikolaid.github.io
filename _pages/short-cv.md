@@ -14,12 +14,11 @@ Education
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
 
 <img align="left" src="/images/umd-logo.png">
+<br/>
 <ins>August 2019 - now </ins> <br/>
 PhD Candidate in Electrical and Computer Engineering, University of Maryland <br/>
 <br/>
 <br/>
-<br/>
-
 
 <img align="left" src="/images/auth-logo.png">
 <ins>July 2019</ins><br/>
