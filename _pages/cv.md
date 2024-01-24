@@ -17,26 +17,22 @@ Education
   
 * Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki <br/>
   July 2019
-<br/>
-<br/>
-  
+
 Professional Experience
 ======
  ![alt text](/images/at&t.png) ![alt text](/images/nokia-logo.jpg)
 * Research Intern, Standards Group at AT&T, Redmond, WA <br/>
-  June 2022 - August 2022 <br/>
+  June 2022 - August 2022
   
 * Research Intern, ENSA Lab at Nokia Bell Labs, Murray Hill, NJ <br/>
   June 2020 - August 2020
-<br/>
-<br/>
 
 Honors and Awards
 ======
 * International Graduate Research Fellowship, Univeristy of Maryland <br/>
   Received partial funding support for a research visit at KTH, Stockholm, Sweden <br/>
-  December 2023 <br/>
+  December 2023 
 
 * Dean's Fellowship, Univeristy of Maryland <br/>
   Received a four-year financial support package as a newly admitted PhD student <br/>
-  August 2019 <br/>
+  August 2019
