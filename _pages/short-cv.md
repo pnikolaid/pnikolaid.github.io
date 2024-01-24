@@ -11,6 +11,10 @@ redirect_from:
 
 Education
 ======
+<p align="center">
+  <img src="/images/umd-logo.png" />   <img src="/images/auth-logo.png" />
+</p>
+
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
 
 <ins>August 2019 - now </ins> <br/>
