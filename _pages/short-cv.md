@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="center">
+// Your content
+</p>
+
 Education
 ======
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
