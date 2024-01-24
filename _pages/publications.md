@@ -24,4 +24,4 @@ This is simple to do but wasteful since the traffic of a slice varies over time.
 
 * Network Slice Multiplexer: decides online which bandwidth demands to accept if the provisioned resources are not enough to accept all of them.
 
-Overall, this architecture was originally developed for the radio access part of network slices. So the two network functions described previously run at the base station of the network and the bandwidth demand corresponds to the physical resource blocks used by the MAC scheduler of the network slice.
+The previous architecture needs to be deployed at various nodes that compose the network slice. If the considered node is the base station, the bandwidth demand corresponds to the physical resource blocks needed by the MAC scheduler of the network slice.
