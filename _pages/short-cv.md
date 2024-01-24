@@ -18,9 +18,11 @@ Education
 PhD Candidate in Electrical and Computer Engineering, University of Maryland <br/>
 </div>
 
+<div>
 <img align="left" src="/images/auth-logo.png">
 <ins>July 2019</ins><br/>
 Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki <br/>
+</div>
 <br/>
 <br/>
 
