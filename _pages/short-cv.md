@@ -24,10 +24,10 @@ Diploma in Electrical and Computer Engineering, Aristostle University of Thessal
 Experience
 ======
  ![alt text](/images/at&t.png) ![alt text](/images/nokia-logo.jpg)
-__June 2022 - August 2022__ <br/>
+<ins>June 2022 - August 2022</ins> <br/>
 Research Intern, Standards Group at AT&T, Redmond, WA <br/>
 
-__June 2020 - August 2020__ <br/>
+<ins>June 2020 - August 2020</ins> <br/>
 Research Intern, ENSA Lab at Nokia Bell Labs, Murray Hill, NJ <br/>
 <br/>
 <br/>
@@ -35,10 +35,10 @@ Research Intern, ENSA Lab at Nokia Bell Labs, Murray Hill, NJ <br/>
 Honors & Awards
 ======
 
-__December 2023__ <br/>
+</ins>December 2023</ins> <br/>
 International Graduate Research Fellowship, Univeristy of Maryland <br/>
 
-__August 2019__ <br/>
+<ins>August 2019</ins> <br/>
 Dean's Fellowship, Univeristy of Maryland <br/>
 <br/>
 <br/>
