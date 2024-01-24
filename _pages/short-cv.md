@@ -13,16 +13,11 @@ Education
 ======
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
 
-<img align="left" width="100" src="/images/umd-logo.png">
-<br/>
 <ins>August 2019 - now </ins> <br/>
-PhD Candidate in Electrical and Computer Engineering, University of Maryland <br/>
-<br/>
-<br/>
+PhD Candidate in Electrical and Computer Engineering, University of Maryland 
 
-<img align="left" width="100" src="/images/auth-logo.png">
 <ins>July 2019</ins><br/>
-Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki <br/>
+Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki
 <br/>
 <br/>
 
@@ -31,10 +26,10 @@ Experience
  ![alt text](/images/at&t.png) ![alt text](/images/nokia-logo.jpg)
  
 <ins>June 2022 - August 2022</ins> <br/>
-Research Intern, Standards Group at AT&T, Redmond, WA <br/>
+Research Intern, Standards Group at AT&T, Redmond, WA
 
 <ins>June 2020 - August 2020</ins> <br/>
-Research Intern, ENSA Lab at Nokia Bell Labs, Murray Hill, NJ <br/>
+Research Intern, ENSA Lab at Nokia Bell Labs, Murray Hill, NJ
 <br/>
 <br/>
 
