@@ -18,6 +18,7 @@ Education
 * Diploma in Electrical and Computer Engineering, Aristostle University of Thessaloniki <br/>
   July 2019
 <br/>
+<br/>
 
 Experience
 ======
@@ -28,12 +29,14 @@ Experience
 * Research Intern, ENSA Lab at Nokia Bell Labs, Murray Hill, NJ <br/>
   June 2020 - August 2020
 <br/>
+<br/>
 
-Honors and Awards
+Honors & Awards
 ======
 * International Graduate Research Fellowship, Univeristy of Maryland <br/>
   December 2023 
 
 * Dean's Fellowship, Univeristy of Maryland <br/>
   August 2019
+<br/>
 <br/>
