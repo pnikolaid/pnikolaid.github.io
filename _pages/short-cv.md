@@ -9,13 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="center">
-# Short CV
-</p>
-
 Education
 ======
-<hr>
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
 * PhD Candidate in Electrical and Computer Engineering, University of Maryland <br/>
   August 2019 - now
