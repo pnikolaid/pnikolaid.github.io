@@ -17,4 +17,9 @@ To estimate the required provisioned resources, the operator may monitor the res
 
 This is simple to do but wasteful since the traffic of a slice varies over time. To enable dynamic resource adaptation for reduced provisioned resources, we propose the following architecture:
 
+
 <img src="/images/system.svg" alt="Proposed Architecture">
+
+* The Bandwidth Demand Estimator monitors online the traffic state of the network slice (number of users, number of queued bits, channel conditions, etc.) and outputs the number of resources needed to deliver the desired QoS.
+
+* The Network Slice Multiplexer decides which bandwidth demands to accept if the provisioned resources are not enough to accept all of them.
