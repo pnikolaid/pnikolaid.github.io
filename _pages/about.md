@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# About
+
 I'm a 5th year PhD candidate in the [Deparment of Electrical and Computer Engineering](https://ece.umd.edu/) and a member of the [Institute for Systems Research](https://isr.umd.edu/) at the [University of Maryland](https://umd.edu/). My advisor is Prof. [John Baras](https://ece.umd.edu/clark/faculty/357/John-S-Baras). Before joining the PhD program, I earned my Diploma in Electrical and Computer Engineering  at the [Aristotle Univerisity of Thessaloniki](https://www.auth.gr/en/university/) in Greece.
 
 # Research Interests
