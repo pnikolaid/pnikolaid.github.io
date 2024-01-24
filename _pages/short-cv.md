@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-
+<hr>
 ![alt text](/images/umd-logo.png) ![alt text](/images/auth-logo.png)
 * PhD Candidate in Electrical and Computer Engineering, University of Maryland <br/>
   August 2019 - now
