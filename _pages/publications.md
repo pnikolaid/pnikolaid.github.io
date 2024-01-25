@@ -10,7 +10,7 @@ You can also view my publications at my <i class="fas fa-fw fa-graduation-cap"> 
  
 **Data-driven Bandwidth Adaptation for Radio Access Network Slices** <br/>
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
-arXiv <a href="https://arxiv.org/abs/2311.17347">  <i class="fas fa-fw fa-file"></i> </a>
+arXiv <a href="https://arxiv.org/abs/2311.17347">  <i class="fas fa-solid fa-file"></i> </a>
 
 **Resource Efficiency vs Performance Isolation Tradeoff in Network Slicing** <br/>
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
