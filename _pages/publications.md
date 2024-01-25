@@ -14,7 +14,7 @@ ArXiV
 
 **Resource Efficiency vs Performance Isolation Tradeoff in Network Slicing** <br/>
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
-IEEE/IFIP WiOpt 2023 (Extended version at [ArXiV])
+IEEE/IFIP WIOPT 2023 (Extended version at [ArXiV])
 
  <ins>2022</ins>
 
