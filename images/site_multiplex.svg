@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="231.43271pt"
-   height="230.30823pt"
-   viewBox="0 0 231.43271 230.30824"
+   width="200pt"
+   height="200pt"
+   viewBox="0 0 200 200.00001"
    id="svg89"
    sodipodi:docname="site_multiplex.svg"
    inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
@@ -235,86 +235,86 @@
      id="g89"
      transform="matrix(0.802646,0,0,2.67042,-35.895552,-161.87924)">
     <path
-       stroke-width="1.07159"
+       stroke-width="0.928307"
        stroke-linecap="round"
        stroke-linejoin="round"
        fill="none"
        stroke="#000000"
-       d="M 332.52294,61.670232 308.52029,145.59889 H 229.58255 L 204.07127,61.155187"
+       d="m 293.43251,61.5314 -20.74235,72.88485 H 204.47459 L 182.42852,61.084128"
        id="path31" />
     <path
-       stroke-width="1.41036"
+       stroke-width="1.22178"
        stroke-linecap="butt"
        stroke-dasharray="6.19662, 6.19662"
        stroke-miterlimit="4"
        stroke-linejoin="miter"
        fill="none"
        stroke="#000000"
-       d="M 212.91244,88.691431 H 323.64373"
+       d="m 190.06879,84.996998 h 95.69058"
        id="path32" />
     <path
-       stroke-width="0.682802"
+       stroke-width="0.591504"
        stroke-linecap="butt"
        stroke-miterlimit="4"
        stroke-linejoin="miter"
        fill="none"
        stroke="#000000"
-       d="m 229.73469,145.34987 -0.9713,-0.29237"
+       d="m 204.60606,134.2 -0.83936,-0.2539"
        id="path33" />
     <path
-       d="m 223.42609,123.2488 90.81962,-0.25243 -7.05072,23.35639 -76.64503,-0.42495 z m 0,0"
+       d="m 199.15437,115.00711 78.48352,-0.21921 -6.09302,20.28303 -66.23428,-0.36904 z m 0,0"
        fill="#1d53b3"
        id="path34"
-       style="stroke-width:0.910403" />
+       style="stroke-width:0.788672" />
     <path
-       stroke-width="0.682802"
+       stroke-width="0.591504"
        stroke-linecap="butt"
        stroke-miterlimit="4"
        stroke-linejoin="miter"
        fill="none"
        stroke="#000000"
-       d="m 223.42609,123.2488 90.81962,-0.25243 -7.05072,23.35639 -76.64503,-0.42495 z m 0,0"
+       d="m 199.15437,115.00711 78.48352,-0.21921 -6.09302,20.28303 -66.23428,-0.36904 z m 0,0"
        id="path35" />
     <path
-       stroke-width="1.02618"
+       stroke-width="0.888969"
        stroke-linecap="round"
        stroke-linejoin="round"
        fill="none"
        stroke="#000000"
-       d="M 162.78626,61.678173 140.82349,145.77942 H 68.582517 L 45.234613,61.162068"
+       d="M 146.75129,61.538297 127.77174,134.57303 H 65.343307 L 45.166765,61.090104"
        id="path36" />
     <path
-       stroke-width="0.653868"
+       stroke-width="0.566439"
        stroke-linecap="butt"
        stroke-miterlimit="4"
        stroke-linejoin="miter"
        fill="none"
        stroke="#000000"
-       d="M 68.721731,145.52647 67.832834,145.2369"
+       d="M 65.463611,134.35336 64.695454,134.1019"
        id="path37" />
     <path
-       d="m 53.127624,88.777931 101.919136,-0.598714 -15.4683,58.351343 -70.23289,-0.43519 z m 0,0"
+       d="m 51.609156,85.075076 88.453894,-0.522892 -13.42468,50.961656 -60.953933,-0.38009 z m 0,0"
        fill="#a01725"
        id="path38"
-       style="stroke-width:0.871825" />
+       style="stroke-width:0.759026" />
     <path
-       stroke-width="0.662886"
+       stroke-width="0.574251"
        stroke-linecap="butt"
        stroke-miterlimit="4"
        stroke-linejoin="miter"
        fill="none"
        stroke="#000000"
-       d="m 53.127624,88.777931 101.919136,-0.598714 -15.4683,58.351343 -70.23289,-0.43519 z m 0,0"
+       d="M 51.987663,85.072116 140.06305,84.552184 126.69582,135.22533 66.002714,134.8474 Z m 0,0"
        id="path39" />
     <path
-       stroke-width="1.40526"
+       stroke-width="1.21736"
        stroke-linecap="butt"
        stroke-dasharray="6.44746, 6.44746"
        stroke-miterlimit="4"
        stroke-linejoin="miter"
        fill="none"
        stroke="#000000"
-       d="M 61.776529,117.02913 H 147.88647"
+       d="M 59.461781,109.60586 H 133.87535"
        id="path40" />
     <g
        inkscape:label=""
@@ -322,7 +322,7 @@
        id="g112" />
     <g
        inkscape:label=""
-       transform="matrix(1.24588,0,0,0.374473,75.611381,79.051388)"
+       transform="matrix(1.0766512,0,0,0.32519774,71.417435,76.625446)"
        id="g137">
       <g
          id="g136"
@@ -391,7 +391,7 @@
     </g>
     <g
        inkscape:label=""
-       transform="matrix(1.24588,0,0,0.374473,239.89805,113.86708)"
+       transform="matrix(1.0766512,0,0,0.32519774,213.38893,106.85989)"
        id="g149">
       <g
          id="g148"
@@ -460,7 +460,7 @@
     </g>
     <g
        inkscape:label=""
-       transform="matrix(1.24588,0,0,0.374473,251.50504,79.290722)"
+       transform="matrix(1.0766512,0,0,0.32519774,223.41933,76.833287)"
        id="g154">
       <g
          id="g153"
@@ -505,7 +505,7 @@
     </g>
     <g
        inkscape:label=""
-       transform="matrix(1.24588,0,0,0.374473,87.237388,105.03203)"
+       transform="matrix(1.0766512,0,0,0.32519774,81.464273,99.187409)"
        id="g162">
       <g
          id="g161"
