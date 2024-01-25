@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Recent Work"
-permalink: /recent-work/
+title: "Selected Work"
+permalink: /selected-work/
 author_profile: true
 ---
 
