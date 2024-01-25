@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also view my publications at my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="https://scholar.google.com/citations?user=ePqhoeIAAAAJ&hl=en"> Google Scholar</a> profile.<br/>
+You can also find my list of publications at my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="https://scholar.google.com/citations?user=ePqhoeIAAAAJ&hl=en"> Google Scholar</a> profile.<br/>
 
  <ins>2023</ins>
  
