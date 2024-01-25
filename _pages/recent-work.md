@@ -13,8 +13,7 @@ Notice that splitting the resources fairly between the slices means little to th
 
 To estimate the required provisioned resources, the operator may monitor the resources that each slice needs over a long period of time, and then provision for each slice the largest amount of resources it requested.
 
-This is simple to do but wasteful since the traffic of a slice varies over time. To enable dynamic resource adaptation for reduced provisioned resources, we propose the following architecture:
-
+This is simple to do but wasteful since the traffic of a slice varies over time. To reduced the provisioned resources, we propose the following architecture that enables dynamic resource adaptation:
 
 <img src="/images/system.svg" alt="Proposed Architecture">
 
