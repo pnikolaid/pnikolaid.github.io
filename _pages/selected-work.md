@@ -17,7 +17,7 @@ This is simple to do but wasteful since the traffic of a slice varies over time.
 
 <img src="/images/system.svg" alt="Proposed Architecture">
 
-**Bandwidth Demand Estimator**: monitors online the current traffic of the network slice and outputs the amount of resources currently needed to deliver the desired QoS
+**Bandwidth Demand Estimator**: monitors online the current traffic of the network slice and outputs the required amount of resources
 
 **Network Slice Multiplexer**: decides online which bandwidth demands to accept if the provisioned resources are not enough for all
 
