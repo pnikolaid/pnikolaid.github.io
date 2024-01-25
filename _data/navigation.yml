@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Short CV"
-    url: /short-cv/
-
   - title: "Publications"
     url: /publications/
 
-  - title: "Recent Work"
-    url: /recent-work/
+  - title: "Selected Work"
+    url: /selected-work/
+
+  - title: "Short CV"
+    url: /short-cv/
 
   # - title: "Talks"
   # url: /talks/    
