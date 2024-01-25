@@ -28,7 +28,7 @@ The previous architecture needs to be deployed at various nodes that compose the
 
 We developed a Bandwidth Demand Estimator that adapts the physical resource blocks allocated to each slice at a base station based on its traffic and packet delay requirements. Note that allocating few resources that are just enough to meet the desired QoS may create large packet queues and hinder the allocation process later on. For this reason, we proposed a Reinforment Learning approach that utilizes QoS feedback. We implemented the proposed algorithm on a 3GPP compliant testbed by Amarisoft. We were able to significantly reduce the average allocated bandwidth and improve the QoS delivery.
 
-<img align=left height=200 src="/images/multiplex.svg" alt="Tradeoff">
+<img align=left height=100 src="/images/multiplex.svg" alt="Tradeoff">
 **Resource Efficiency vs Performance Isolation Tradeoff in Network Slicing** <a href="https://ieeexplore.ieee.org/document/10349807">   <i class="fas fa-solid fa-file"></i></a> <br/>
 
 We developed a Network Slice Multiplexer that considers performance isolation. Although statistical multiplexing reduces the provisioned bandwidth, unexpected traffic surges in one slice may affect the other slices since the resources are being shared. Hence there is a tradeoff between resource efficiency and performance isolation. For this reason, we proposed the reservation of resources that are guaranteed to each slice no matter the traffic in other slices. Then, we found that the multiplexing policy that requires the least provisioned resources under this paradigm is the well-known Max-Weight scheduler when the demands follow Markov Chains. We investigated the tradeoff via experimentation on the LTE module of ns-3.
