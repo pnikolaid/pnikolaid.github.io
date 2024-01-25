@@ -14,19 +14,19 @@ arXiv <a href="https://arxiv.org/abs/2311.17347">  <i class="fas fa-solid fa-fil
 
 **Resource Efficiency vs Performance Isolation Tradeoff in Network Slicing** <br/>
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
-IEEE/IFIP WiOpt 2023 <a href="https://ieeexplore.ieee.org/document/10349807">  <i class="fa-solid fa-file"></i> </a> / arXiv <a href="https://arxiv.org/abs/2303.14634">  <i class="fa-solid fa-file"></i> </a> (extended version)
+IEEE/IFIP WiOpt 2023 <a href="https://ieeexplore.ieee.org/document/10349807">   <i class="fas fa-solid fa-file"></i> </a> / arXiv <a href="https://arxiv.org/abs/2303.14634">  <i class="fa-solid fa-file"></i> </a> (extended version)
 
  <ins>2022</ins>
 
 **Bandwidth Provisioning for Network Slices with Per User QoS Guarantees** <br/>
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
-IEEE/IFIP NOMS 2022 <a href="https://ieeexplore.ieee.org/document/10154366">  <i class="fa-solid fa-file"></i> </a>
+IEEE/IFIP NOMS 2022 <a href="https://ieeexplore.ieee.org/document/10154366">   <i class="fas fa-solid fa-file"></i> </a>
 
  <ins>2021</ins>
 
 **A Fast and Scalable Resource Allocation Scheme for End-to-End Network Slices** <br/>
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
-IEEE GLOBECOM 2021 <a href="https://ieeexplore.ieee.org/abstract/document/9685668">  <i class="fa-solid fa-file"></i> </a>
+IEEE GLOBECOM 2021 <a href="https://ieeexplore.ieee.org/abstract/document/9685668">  <i class="fas fa-solid fa-file"></i> </a>
 
 
 
