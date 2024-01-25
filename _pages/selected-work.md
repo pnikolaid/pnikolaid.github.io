@@ -15,6 +15,8 @@ To estimate the required provisioned resources, the operator may monitor the res
 
 This is simple to do but wasteful since the traffic of a slice varies over time. To reduced the provisioned resources, we propose the following architecture that enables dynamic resource adaptation:
 <br/>
+<br/>
+
 <img src="/images/system.svg" alt="Proposed Architecture">
 
 **Bandwidth Demand Estimator**: monitors online the current traffic of the network slice and outputs the required resourses
