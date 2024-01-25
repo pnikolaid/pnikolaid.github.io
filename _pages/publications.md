@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+The list of my publications can be also found at my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="https://scholar.google.com/citations?user=ePqhoeIAAAAJ&hl=en"> Google Scholar</a> profile.<br/>
+
 ## 2023
 ---
 ### Data-driven Bandwidth Adaptation for Radio Access Network Slices
@@ -26,5 +28,5 @@ IEEE/IFIP NOMS 2022
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras
 IEEE GLOBECOM 2021
 
-The list of my publications can be also found at my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="https://scholar.google.com/citations?user=ePqhoeIAAAAJ&hl=en"> Google Scholar</a> profile.<br/>
+
 
