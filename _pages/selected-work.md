@@ -23,9 +23,9 @@ This is simple to do but wasteful since the traffic of a slice varies over time.
 
 The previous architecture needs to be deployed at various nodes that compose the network slice. At the base station of a cellular network, the bandwidth demand corresponds to the physical resource blocks needed by the MAC scheduler of the slice to meet the desired QoS. At a switch, the bandwidth demand corresponds to the weight used by the PGPS algorithm running at its output ports. In the following two papers, we propose an implementation for each network function.
 
-**Proposed Bandwidth Demand Estimator** (details in "Data-driven Bandwidth Adaptation for Radio Access Network Slices" <a href="https://arxiv.org/abs/2311.17347">  <i class="fas fa-solid fa-file"></i> </a>)<br/>
+**Proposed Bandwidth Demand Estimator** (details in "Data-driven Bandwidth Adaptation for Radio Access Network Slices" <a href="https://arxiv.org/abs/2311.17347">  <i class="fas fa-solid fa-file"></i> </a>)
+<br/>
 <img align ="left" height=150 src="/images/testbed.jpg" alt="Testbed">
-
 We developed a Bandwidth Demand Estimator that adapts the physical resource blocks allocated to each slice at a base station based on its traffic and packet delay requirements. Note that allocating few resources that are just enough to meet the desired QoS may create large packet queues and hinder the allocation process later on. For this reason, we proposed a Reinforment Learning approach that utilizes QoS feedback. We implemented the proposed algorithm on a 3GPP compliant testbed by Amarisoft. We were able to significantly reduce the average allocated bandwidth and improve the QoS delivery.
 <br/>
 <br/>
