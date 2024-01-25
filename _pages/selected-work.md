@@ -23,7 +23,8 @@ This is simple to do but wasteful since the traffic of a slice varies over time.
 
 The previous architecture needs to be deployed at various nodes that compose the network slice. At the base station of a cellular network, the bandwidth demand corresponds to the physical resource blocks needed by the MAC scheduler of the slice to meet the desired QoS. At a switch, the bandwidth demand corresponds to the weight used by the PGPS algorithm running at its output ports. In the following two papers, we propose an implementation for each network function.
 
-
+<br/>
+<br/>
 **Proposed Bandwidth Demand Estimator** ("Data-driven Bandwidth Adaptation for Radio Access Network Slices" <a href="https://arxiv.org/abs/2311.17347">  <i class="fas fa-solid fa-file"></i> </a>)<br/>
 <img align ="left" height=200 src="/images/testbed.jpg" alt="Testbed">
 
