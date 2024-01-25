@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<!---
 <p align="center">
     <img src="/images/umd-logo.png" />   <img src="/images/auth-logo.png" />
  <img src="/images/at&t.png" />   <img src="/images/nokia-logo.jpg" />
 </p>
--->
 
 Education
 ======
