@@ -33,7 +33,7 @@ We developed a Bandwidth Demand Estimator that adapts the physical resource bloc
 **Resource Efficiency vs Performance Isolation Tradeoff in Network Slicing** <a href="https://ieeexplore.ieee.org/document/10349807"> <i class="fas fa-solid fa-file"></i></a> (proposed Network Slice Multiplexer) 
 <br/>
 
-<img  align="left" height="100" src="/images/multiplex_site.svg" alt="Tradeoff">
+<img  align="left" height="100" src="/images/multiplex_site_1.svg" alt="Tradeoff">
 We developed a Network Slice Multiplexer that considers performance isolation. Although statistical multiplexing reduces the provisioned bandwidth, unexpected traffic surges in one slice may affect the other slices since the resources are being shared. To handle this tradeoff, we proposed the reservation of resources that are guaranteed to each slice no matter the traffic in other slices. Then, we found that the multiplexing policy that requires the least provisioned resources when the demands follow Markov Chains is the well-known Max-Weight scheduler. We investigated the tradeoff via experimentation on the LTE module of ns-3.
 
 
