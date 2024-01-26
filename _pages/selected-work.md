@@ -9,9 +9,9 @@ author_profile: true
 
 In network slicing, the customer and the network operator sign a service level agreement. This agreement specifies the QoS delivered to the network slice of the customer and the price that the customer needs to pay in exchange.
 
-Notice that splitting the resources fairly between the slices means little to the customers if their share is not enough to deliver the promised QoS. Hence resource sharing schemes based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
+Notice that fairly splitting the resources between the slices means little to the customers if their share cannot deliver the promised QoS. Hence resource sharing schemes based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
 
-To estimate the required provisioned resources, the operator may monitor the resources that each slice needs over a long period of time, and then provision for each slice the largest amount of resources it requested.
+To estimate the required provisioned resources, the operator may monitor the resources that each slice needs over a long period of time, and then provision for each slice the largest amount it requested.
 
 This is simple to do but wasteful since the traffic of a slice varies over time. To reduced the provisioned resources, we propose the following architecture that enables dynamic resource adaptation:
 <br/>
@@ -19,7 +19,7 @@ This is simple to do but wasteful since the traffic of a slice varies over time.
 
 <img src="/images/system.svg" alt="Proposed Architecture">
 
-**Bandwidth Demand Estimator**: monitors online the current traffic of the network slice and outputs the required resourses
+**Bandwidth Demand Estimator**: monitors online the traffic of the slice and outputs the required resources given the desired QoS
 
 **Network Slice Multiplexer**: decides online which demands to accept if the provisioned resources are not enough for all
 
