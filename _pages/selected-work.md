@@ -37,7 +37,7 @@ We developed a <ins>Bandwidth Demand Estimator</ins> that adapts the physical re
 <br/>
 
 <img  align="left" height="100" src="/images/multiplex_site_2.svg" alt="Tradeoff">
-We developed a <ins>Network Slice Multiplexer</ins> that considers performance isolation. Although statistical multiplexing reduces the provisioned bandwidth, unexpected traffic surges in one slice may affect the other slices since the resources are being shared. To handle this tradeoff, we proposed the reservation of resources that are guaranteed to each slice no matter the traffic in other slices. Then, we found that the multiplexing policy that requires the least provisioned resources when the demands follow Markov Chains is the well-known Max-Weight scheduler. We investigated the tradeoff via experimentation on the LTE module of ns-3.
+We developed a <ins>Network Slice Multiplexer</ins> that considers performance isolation. Although statistical multiplexing reduces the provisioned bandwidth, unexpected traffic surges in one slice may affect the other slices since the resources are being shared. To handle this tradeoff, we proposed the reservation of resources that are guaranteed to each slice no matter the traffic in other slices. Then, we found that the multiplexing policy that requires the least provisioned resources is the well-known Max-Weight scheduler when the demands follow Markov Chain. We investigated the tradeoff via experimentation on the LTE module of ns-3.
 
 
 
