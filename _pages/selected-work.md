@@ -13,7 +13,7 @@ Notice that fairly splitting the resources between the slices means little to th
 
 For instance, the operator may monitor the resources that each slice needs over a long period of time and provision the largest amount it requested. Then, each customer can be charged accordingly.
 
-This is simple to do but wasteful since the traffic of a slice varies over time. To reduced the provisioned resources, we propose the following architecture that enables dynamic resource adaptation:
+This is simple to do but quite wasteful since the traffic of a slice varies over time. To reduce the provisioned resources, we propose the following architecture that enables statistical multiplexing via dynamic resource adaptation:
 <br/>
 <br/>
 
