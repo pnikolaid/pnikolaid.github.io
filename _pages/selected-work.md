@@ -11,7 +11,7 @@ In network slicing, the customer and the network operator sign a service level a
 
 Notice that fairly splitting the resources between the slices means little to the customers if their share cannot deliver the promised QoS. Hence resource sharing schemes based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
 
-For instance, the operator may monitor the resources that each slice needs over a long period of time and provision the largest amount it requested. Then, eachc customer can be charged accordingly.
+For instance, the operator may monitor the resources that each slice needs over a long period of time and provision the largest amount it requested. Then, each customer can be charged accordingly.
 
 This is simple to do but wasteful since the traffic of a slice varies over time. To reduced the provisioned resources, we propose the following architecture that enables dynamic resource adaptation:
 <br/>
