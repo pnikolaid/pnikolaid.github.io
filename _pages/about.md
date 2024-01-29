@@ -17,7 +17,7 @@ I'm a 5th year PhD candidate in the [Deparment of Electrical and Computer Engine
 
 I'm broadly interested in communication networks. Currently, my research focus is on network slicing. My goal is to develop a framework that provides peformance guarantees to multiple network slices efficiently via dynamic resource adaptation. 
 
-In my research, I use tools from Controls, Queueing Theory, Learning Theory and Estimation Theory. In general, I like to mix theory and practice by formulating problems of practical interest and evaluating the solutions on simulators or testbeds. 
+In my research, I use tools from Controls, Queueing Theory, Learning Theory and Estimation Theory. In general, I like to mix theory and practice by formulating problems of practical interest and evaluating their solutions on simulators or testbeds. 
 
 # News
 
