@@ -11,7 +11,7 @@ redirect_from:
 
 
 <p align="center">
-    <img src="/images/umd-logo.png" />   <img src="/images/auth-logo.png" />
+    <img src="/images/umd-logo.png" />   <img src="/images/auth-logo.png" /> <img src="/images/KTH-logo.png" />
  <img src="/images/at&t.png" />   <img src="/images/nokia-logo.jpg" />
 </p>
 
@@ -28,6 +28,9 @@ Diploma in Electrical and Computer Engineering, Aristotle University of Thessalo
 
 Experience
 ======
+
+<ins>February 2024 - May 2024</ins> <br/>
+Visiting Researcher, James Gross' Group at KTH, Stockholm, Sweden
 
 <ins>June 2022 - August 2022</ins> <br/>
 Research Intern, Standards Group at AT&T, Redmond, WA
