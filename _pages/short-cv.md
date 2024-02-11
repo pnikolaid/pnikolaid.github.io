@@ -44,9 +44,9 @@ Honors & Awards
 ======
 
 <ins>December 2023</ins> <br/>
-International Graduate Research Fellowship, Univeristy of Maryland <br/>
+International Graduate Research Fellowship, University of Maryland <br/>
 
 <ins>August 2019</ins> <br/>
-Dean's Fellowship, Univeristy of Maryland <br/>
+Dean's Fellowship, University of Maryland <br/>
 <br/>
 <br/>
