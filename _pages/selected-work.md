@@ -9,9 +9,9 @@ author_profile: true
 
 In network slicing, the customer and the network operator sign a service level agreement. This agreement specifies the QoS delivered to the network slice of the customer and the price that the customer needs to pay in exchange.
 
-Here fairly splitting the resources between the slices means little to the customers if their share cannot deliver the promised QoS. As a result, resource sharing schemes based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
+Here fairly splitting the resources between the slices means little to the customers if their share cannot deliver the promised QoS. As a result, resource sharing mechanisms based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
 
-Consequently, the resource sharing and resource provisioning must be studied jointly in order to enable network slicing. Motivated by this, we propose the following architecture that enables statistical multiplexing via dynamic resource adaptation:
+Consequently, resource sharing and provisioning mechanisms must be studied jointly in order to enable network slicing. Motivated by this, we propose the following architecture that enables statistical multiplexing via dynamic resource adaptation:
 <br/>
 <br/>
 
