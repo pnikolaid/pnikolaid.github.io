@@ -4,9 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my list of publications at my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="https://scholar.google.com/citations?user=ePqhoeIAAAAJ&hl=en"> Google Scholar</a> profile.<br/>
+You may also find a list of my publications at my <i class="fas fa-fw fa-graduation-cap"> </i> <a href="https://scholar.google.com/citations?user=ePqhoeIAAAAJ&hl=en"> Google Scholar</a> profile.<br/>
 
- <ins>2023</ins>
+ <ins>2024</ins>
+ 
+**Robust Resource Sharing in Network Slicing via Hypothesis Testing** <br/>
+Panagiotis Nikolaidis, John Baras <br/>
+arXiv <a href="https://arxiv.org/abs/2404.18254">  <i class="fas fa-solid fa-file"></i> </a>
+
+ <ins>2024</ins>
  
 **Data-driven Bandwidth Adaptation for Radio Access Network Slices** <br/>
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
@@ -25,7 +31,7 @@ IEEE/IFIP NOMS 2022 <a href="https://ieeexplore.ieee.org/document/10154366"><i c
  <ins>2021</ins>
 
 **A Fast and Scalable Resource Allocation Scheme for End-to-End Network Slices** <br/>
-Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
+Panagiotis Nikolaidis, John Baras <br/>
 IEEE GLOBECOM 2021 <a href="https://ieeexplore.ieee.org/abstract/document/9685668">  <i class="fas fa-solid fa-file"></i></a>
 
 
