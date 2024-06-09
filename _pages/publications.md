@@ -12,7 +12,7 @@ You may also find a list of my publications at my <i class="fas fa-fw fa-graduat
 Panagiotis Nikolaidis, John Baras <br/>
 arXiv <a href="https://arxiv.org/abs/2404.18254">  <i class="fas fa-solid fa-file"></i> </a>
 
- <ins>2024</ins>
+ <ins>2023</ins>
  
 **Data-driven Bandwidth Adaptation for Radio Access Network Slices** <br/>
 Panagiotis Nikolaidis, Asim Zoulkarni, John Baras <br/>
