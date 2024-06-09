@@ -15,7 +15,7 @@ Consequently, the resource sharing and resource provisioning must be studied joi
 <br/>
 <br/>
 
-<img src="/images/system.svg" alt="Proposed Architecture">
+<img src="/images/system.svg" alt="Proposed Architecture" width="900">
 
 **Bandwidth Demand Estimator**: monitors online the traffic of the slice and outputs the amount of required resources
 
