@@ -36,12 +36,14 @@ We develop a <ins>Bandwidth Demand Estimator</ins> that adapts the physical reso
 
 <img  align="left" height="100" src="/images/multiplex_site_2.svg" alt="Tradeoff">
 We develop a <ins>Network Slice Multiplexer</ins> that considers performance isolation. Although statistical multiplexing reduces the provisioned bandwidth, unexpected traffic surges in one slice may affect the other slices since the resources are being shared. To handle this tradeoff, we propose the reservation of resources that are guaranteed to each slice no matter the traffic in other slices. Then, we find that the multiplexing policy that requires the least provisioned resources is the well-known Max-Weight scheduler if the demands follow Markov Chains. We investigate the tradeoff via experimentation on the LTE module of ns-3.
+<br/>
+<br/>
 
 **Robust Resource Sharing via Hypothesis Testing** <a href="https://arxiv.org/abs/2404.18254"> <i class="fas fa-solid fa-file"></i></a>
 <br/>
 
 <img  align="left" height="100" src="/images/multiplex_site_2.svg" alt="Tradeoff">
-We propose the introduction of hypothesis testing in resource sharing as an altenative mechanism to handle the tradeoff between efficiency and isolation without exclusively reserving resources. Our approach comprises two phases. In the trial phase, the operator obtains a stochastic model for each slice that describes its normal behavior, provisions resources and then signs the service level agreements. In the regular phase, whenever there is resource contention, hypothesis testing is conducted to check which slices follow their normal behavior. Slices that fail the test are excluded from resource sharing to protect the well-behaved ones. Results show that our approach fortifies the service level agreements against unexpected traffic patterns while maintaining high efficiency.
+We propose the introduction of hypothesis testing in resource sharing to handle the tradeoff between efficiency and isolation without exclusively reserving resources. Our approach comprises two phases. In the trial phase, the operator obtains a stochastic model for each slice that describes its normal behavior, provisions resources and then signs the service level agreements. In the regular phase, whenever there is resource contention, hypothesis testing is conducted to check which slices follow their normal behavior. Slices that fail the test are excluded from resource sharing to protect the well-behaved ones. Results show that our approach fortifies the service level agreements against unexpected traffic patterns while maintaining high efficiency.
 
 
 
