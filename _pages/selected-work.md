@@ -43,7 +43,7 @@ We develop a <ins>Network Slice Multiplexer</ins> that considers performance iso
 <br/>
 
 <img  align="left" height="100" src="/images/trial2.jpg" alt="Trial">
-We propose the introduction of hypothesis testing in resource sharing to handle the tradeoff between efficiency and isolation without exclusively reserving resources. Our approach comprises two phases. In the trial phase, the operator obtains a stochastic model for each slice that describes its normal behavior, provisions resources and then signs the service level agreements. In the regular phase, whenever there is resource contention, hypothesis testing is conducted to check which slices follow their normal behavior. Slices that fail the test are excluded from resource sharing to protect the well-behaved ones. Results show that our approach fortifies the service level agreements against unexpected traffic patterns while maintaining high efficiency.
+We propose the introduction of hypothesis testing in resource sharing to handle the tradeoff between efficiency and isolation without exclusive resource reservation. Our approach comprises two phases. In the trial phase, the operator obtains a stochastic model for each slice that describes its normal behavior, provisions resources and signs the service level agreements. In the regular phase, whenever there is resource contention, hypothesis testing is conducted to check which slices follow their normal behavior. Slices that fail the test are excluded from resource sharing to protect the well-behaved ones. Results show that our approach fortifies the service level agreements against unexpected traffic patterns with reduced resources.
 
 
 
