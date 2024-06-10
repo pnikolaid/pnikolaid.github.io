@@ -11,7 +11,7 @@ In network slicing, the customer and the network operator sign a service level a
 
 Here fairly splitting the resources between the slices means little to the customers if their share cannot deliver the promised QoS. As a result, resource sharing mechanisms based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
 
-Consequently, resource sharing and provisioning mechanisms must be studied jointly in order to enable network slicing. Motivated by this, we propose the following architecture that enables statistical multiplexing via dynamic resource adaptation:
+Consequently, resource sharing and provisioning mechanisms must be studied jointly in order to enable network slicing. To efficiently meet the QoS requirements of all slices, we propose the following architecture that enables dynamic resource adaptation:
 <br/>
 <br/>
 
