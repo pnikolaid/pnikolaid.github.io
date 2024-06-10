@@ -50,7 +50,7 @@ We propose the introduction of hypothesis testing in resource sharing to handle 
 **End-to-End Resource Adaptation in Mobile Edge Computing** <a href="https://arxiv.org/abs/2404.18254"> <i class="fas fa-solid fa-file"></i></a>
 <br/>
 
-<img  align="left" height="100" src="/images/quectel2.jpg" alt="Trial">
+<img  align="left" height="100" src="/images/quectel3.jpg" alt="Trial">
 We develop a resource adaptation algorithm for latency sensitive and bitrate sensitive slices. The algorithm adapts the bandwidth in downlink and uplink for each slice based on its current traffic. The latency sensitive slice is composed by OpenRTiST users and the bitrate sensitive slice by file transfer users. The OpenRTiST users create closed-loop traffic that passes through the edge for processing. The file transfer users create one directional traffic. The algorithm is implemented on OpenAirInterface 5G and the experimental setup involves software defined radios and commercial off the shelf mobile devices.
 
 
