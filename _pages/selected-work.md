@@ -11,7 +11,7 @@ In network slicing, the customer and the network operator sign a service level a
 
 Here fairly splitting the resources between the slices means little to the customers if their share cannot deliver the promised QoS. As a result, resource sharing mechanisms based on utility maximization are not enough. Resource provisioning mechanisms are also needed.
 
-Consequently, resource sharing and provisioning mechanisms must be studied jointly in order to enable network slicing. To efficiently meet the QoS requirements of all slices, we propose the following architecture that enables dynamic resource adaptation:
+To efficiently meet the QoS requirements of all slices, we propose the following architecture that enables dynamic resource adaptation:
 <br/>
 <br/>
 
@@ -21,7 +21,7 @@ Consequently, resource sharing and provisioning mechanisms must be studied joint
 
 **Network Slice Multiplexer**: decides online which demands to accept if the provisioned resources are not enough for all
 
-The previous architecture needs to be deployed at various nodes that compose the network slice. At the base station of a cellular network, the bandwidth demand corresponds to the physical resource blocks needed by the MAC scheduler of the slice to meet the desired QoS. At a switch, the bandwidth demand corresponds to the weight used by the PGPS algorithm running at its output ports. In the following two papers, we propose an implementation for each network function.
+The previous architecture needs to be deployed at various nodes that compose the network slice. At the base station of a cellular network, the bandwidth demand corresponds to the physical resource blocks needed by the MAC scheduler of the slice to meet the desired QoS. At a switch, the bandwidth demand may correspond to the weight used by the PGPS algorithm running at its output ports. Also, the Network Slice Multiplexer should be provisioned with enough resources to be able to accept all the bandwidth demands for a high fraction of time. In the following papers, we propose implementations for each network function.
 
 **Data-driven Bandwidth Adaptation for Radio Access Network Slices** <a href="https://arxiv.org/abs/2311.17347">  <i class="fas fa-solid fa-file"></i></a>
 <br/>
