@@ -47,7 +47,7 @@ We propose the introduction of hypothesis testing in resource sharing to handle 
 <br/>
 <br/>
 
-**End-to-End Resource Adaptation in Mobile Edge Computing** <a href="https://arxiv.org/abs/2404.18254"> <i class="fas fa-solid fa-file"></i></a>
+**End-to-End Resource Adaptation in Mobile Edge Computing** (work in progress)
 <br/>
 
 <img  align="left" height="100" src="/images/quectel3.jpg" alt="Trial">
