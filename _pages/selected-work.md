@@ -2,7 +2,7 @@
 layout: archive
 title: "Selected Work"
 permalink: /selected-work/
-author_profile: true
+author_profile: false
 ---
 
 # Network Slicing
