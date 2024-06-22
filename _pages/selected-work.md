@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: talk
 title: Selected Work
 permalink: /selected-work/
 author_profile: false
