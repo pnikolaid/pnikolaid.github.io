@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: Selected Work
+title: 
 permalink: /selected-work/
 author_profile: false
 ---
