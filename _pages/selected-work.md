@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomy
+layout: compress
 title: "Selected Work"
 permalink: /selected-work/
 author_profile: false
