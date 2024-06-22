@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Selected Work
 permalink: /selected-work/
 author_profile: false
 ---
