@@ -29,7 +29,7 @@ Diploma in Electrical and Computer Engineering, Aristotle University of Thessalo
 Experience
 ======
 
-<ins>February 2024 - May 2024</ins> <br/>
+<ins>February 2024 - July 2024</ins> <br/>
 Visiting Researcher, James Gross' Group at KTH, Stockholm, Sweden
 
 <ins>June 2022 - August 2022</ins> <br/>
