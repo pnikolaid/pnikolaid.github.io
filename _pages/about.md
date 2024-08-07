@@ -21,5 +21,5 @@ In my research, I use tools from Controls, Queueing Theory, Learning Theory and 
 
 # News
 
-From February to May 2024, I'll be a visiting researcher hosted by Prof. [James Gross](https://www.jamesgross.org/) at the [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden.
+From February to July 2024, I'll be a visiting researcher hosted by Prof. [James Gross](https://www.jamesgross.org/) at the [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden.
 
