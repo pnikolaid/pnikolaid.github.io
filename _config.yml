@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Panagiotis Nikolaidis"
   avatar           : "prof1.jpg"
-  bio              : "PhD Candidate in Electrical and Computer Engineering"
-  location         : "University of Maryland"
+  bio              : "Network System Researcher"
+  location         : "Nokia Bell Labs"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ePqhoeIAAAAJ&hl=en"
-  email            :  nikolaid@umd.edu
+  email            :  panagiotis.nikolaidis@nokia-bell-labs.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
