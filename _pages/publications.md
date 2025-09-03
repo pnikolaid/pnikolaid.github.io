@@ -17,6 +17,7 @@ Panagiotis Nikolaidis, John Baras <br/>
 IEEE Transactions on Network and Service Management <a href="https://ieeexplore.ieee.org/document/10947225">  <i class="fas fa-solid fa-file"></i> </a>
 
  <ins>2024</ins>
+ 
  **Automated Management of Network Slices with Service Guarantees** <br/>
  Panagiotis Nikolaidis <br/>
  Ph.D. Dissertation <i class="fa fa-trophy"></i>  <a href="https://drum.lib.umd.edu/items/09771759-c71c-448f-ab40-6e5f6afbfa5d">  <i class="fas fa-solid fa-file"></i></a>
