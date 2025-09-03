@@ -6,8 +6,8 @@ main:
   - title: "Selected Work"
     url: /selected-work/
 
-  - title: "Short CV"
-    url: /short-cv/
+  - title: "Resume"
+    url: /resume/
 
   # - title: "Talks"
   # url: /talks/    
