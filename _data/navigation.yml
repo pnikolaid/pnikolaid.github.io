@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Selected Work"
-    url: /selected-work/
+  #- title: "Selected Work"
+  #  url: /selected-work/
 
   - title: "Resume"
     url: /resume/
