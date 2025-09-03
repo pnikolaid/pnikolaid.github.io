@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Short CV"
-permalink: /short-cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -18,15 +18,25 @@ redirect_from:
 Education
 ======
 
-<ins>August 2019 - now </ins> <br/>
-PhD Candidate in Electrical and Computer Engineering, University of Maryland 
+<ins> December 2024 </ins> <br/>
+Ph.D. in Electrical and Computer Engineering, University of Maryland 
 
 <ins>July 2019</ins><br/>
 Diploma in Electrical and Computer Engineering, Aristotle University of Thessaloniki
 <br/>
 <br/>
 
-Experience
+Professional Experience
+======
+<ins> June 2025 - Now </ins> <br/>
+Network System Researcher, Department of Mobile Network Systems at Nokia Bell Labs, Murray Hill, NJ
+
+<ins> August 2019  - December 2024 </ins> <br/>
+Graduate Research Assistant, University of Maryland, College Park, MD
+<br/>
+<br/>
+
+Internships & Research Visits
 ======
 
 <ins>February 2024 - July 2024</ins> <br/>
