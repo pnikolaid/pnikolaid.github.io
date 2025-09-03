@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # About
-I am a Network System Researcher at [Nokia Bell Labs](https://www.nokia.com/bell-labs/) in Murray Hill, New Jersey since 2025. Before that, I earned my PhD in ELectrical and Computer Engineering at the University of Maryland under the supervision of Prof. [John Baras](https://ece.umd.edu/clark/faculty/357/John-S-Baras) in 2024. Before joining the PhD program, I earned my Diploma in Electrical and Computer Engineering  at the [Aristotle Univerisity of Thessaloniki](https://www.auth.gr/en/university/) in 2019.
+I am a Network System Researcher in the Department of Mobile Network Systems at [Nokia Bell Labs](https://www.nokia.com/bell-labs/) in Murray Hill, New Jersey since 2025. Before that, I earned my PhD in Electrical and Computer Engineering at the [University of Maryland](https://ece.umd.edu/) under the supervision of Prof. [John Baras](https://ece.umd.edu/clark/faculty/357/John-S-Baras) in 2024. Before joining the PhD program, I earned my Diploma in Electrical and Computer Engineering  at the [Aristotle Univerisity of Thessaloniki](https://www.auth.gr/en/university/) in 2019.
 
 # Research Interests
 My goal is to design and build intelligent network systems that can efficiently support emerging applications such as autonomous driving, augmented reality, robotics and Internet of Things. Towards this goal, I often leverage tools from Optimization, Controls, Estimation Theory and Machine Learning. Briding theory with practice, I formulate problems of practical interest and implement their solutions on network simulators and testbeds. 
